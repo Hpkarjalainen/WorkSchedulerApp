@@ -1,3 +1,3 @@
 # Work Scheduler App - React Native
 
-This is a copy od the original repository
+Front end of our school project: an app for companies that allows the management of their work hours
